@@ -1,0 +1,38 @@
+h1{
+    color: plum;
+}
+h4{
+    color: yellow;
+}
+p{
+    color:rgb(255, 70, 70);
+    background-color: aqua;
+}
+#capture{
+    width:100px;
+    height:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 181, 248);
+    color:deeppink;
+    font-weight: bold;
+}
+#capture{
+    width:100px;
+    height:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 181, 248);
+    color:deeppink;
+    font-weight: bold;
+}
+#check{
+    width:100px;
+    height:50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(156, 234, 255);
+    color:rgb(47, 0, 254);
+    font-weight: bold;
+}
+div{
+    height: 500px;
+    width: 200px;
+}
